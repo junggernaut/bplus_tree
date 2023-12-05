@@ -1,0 +1,14 @@
+Insert 3
+`- [3]
+Insert 2
+`- [2, 3]
+Insert 1
+`- [1, 2, 3]
+Insert 0
+`- [0, 1, 2, 3]
+Delete 2
+`- [0, 1, 3]
+Delete 3
+`- [0, 1]
+Delete 0
+`- [1]

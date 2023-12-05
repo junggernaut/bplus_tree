@@ -1,0 +1,10 @@
+Insert 0
+`- [0]
+Insert 1
+`- [0, 1]
+Insert 2
+`- [0, 1, 2]
+Delete 1
+`- [0, 2]
+Delete 2
+`- [0]

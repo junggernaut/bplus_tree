@@ -1,0 +1,5 @@
+Insert 0
+Insert 1
+Insert 2
+Delete 1
+Delete 2
